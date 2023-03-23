@@ -11,5 +11,6 @@ int _abs(int);
 int print_last_digit(int);
 int _isupper(int c);
 int _isdigit(int c);
+int mul(int a, int b);
 
 #endif
