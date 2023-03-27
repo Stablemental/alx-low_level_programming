@@ -20,5 +20,6 @@ void swap_int(int *a, int *b);
 int _strlen(char *s);
 int print_last_digit(int);
 void _puts(char *str);
+void print_rev(char *s);
 
 #endif
