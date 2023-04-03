@@ -4,7 +4,7 @@
  * @dest: parametre of function
  * @src: parametre of function
  * @n: parametre of function
- * Resturn: dest
+ * Return: dest
  */
 
 char *_memcpy(char *dest, char *src, unsigned int n)
